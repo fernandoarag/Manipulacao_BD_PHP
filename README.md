@@ -1,6 +1,6 @@
 # Manipulação de BD - PHP
 
-`Conteúdo do Projeto`
+##`Conteúdo do Projeto`
 
 * As páginas com nome Listagem.php(página principal), alteracao.php, inclusao.php, exclusao.php.
 * A pasta Conexão: contém um arquivo com os dados de conexão ao banco de dados;
